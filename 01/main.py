@@ -1,3 +1,5 @@
+#Find the sum of all the multiples of 3 or 5 below 1000.
+
 NUMBER1 = 5
 NUMBER2 = 3
 BOUND = 1000

@@ -1,3 +1,5 @@
+#What is the largest prime factor of the number 600851475143?
+
 NUMBER = 600851475143
 
 def primes_sieve2(limit):
